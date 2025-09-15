@@ -1,5 +1,6 @@
 ### Interested in:
+- Backend
 - Linux
 - Devops
 - Rust
-- Servers
+- Startups
